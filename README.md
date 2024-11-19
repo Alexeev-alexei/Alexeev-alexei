@@ -11,5 +11,5 @@
 ## Мой стэк:
 - **Python**: pandas, numpy, seaborn, scipy, matplotlib, plotly, sqlalchemy
 - **SQL**: агрегация, фильтрация, джойны, вложенные запросы, оконные функции
-- BI-инструменты: **Tableau**
+- BI-инструменты: **Tableau**, **Redash**
 - Базы данных: **PostgreSQ**, **MySQL**
