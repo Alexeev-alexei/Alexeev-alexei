@@ -7,3 +7,9 @@
 - Мои контакты:
     - [Телеграм](https://t.me/Alexeev_aleksei)
     - 89324117987
+
+## Мой стэк:
+- **Python**: pandas, numpy, seaborn, scipy, matplotlib, plotly, sqlalchemy
+- **SQL**: агрегация, фильтрация, джойны, вложенные запросы, оконные функции
+- BI-инструменты: **Tableau**
+- Базы данных: **PostgreSQ**, **MySQL**
