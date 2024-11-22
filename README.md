@@ -16,5 +16,5 @@
 - **Python**: pandas, numpy, seaborn, scipy, matplotlib, plotly, sqlalchemy
 - **SQL**: агрегация, фильтрация, джойны, вложенные запросы, оконные функции
 - BI-инструменты: **Tableau**, **Redash**
-- Базы данных: **PostgreSQ**, **MySQL**
+- Базы данных: **PostgreSQL**, **MySQL**
 - **Excel**: сложные формулы, сводные таблицы, Power Query, Power Pivot
